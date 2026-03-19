@@ -6,3 +6,5 @@ To run, you'll need to have <a href="https://www.xquartz.org/">X11</a> installed
 2. navigate to the directory in which the code was cloned
 3. compile using "cc main.c -lm -lX11"
 4. run using "./a.out"
+
+Once running - use arrow keys to move around the scene.
