@@ -1,5 +1,5 @@
 # Hybrid Rendering Engine
-This program combines 3 rendering algorithms into a single application using C, X11, and a small coding libary courtesy of my college CS professor, Jeffrey Ely.
+This program combines 3 rendering algorithms into a single application using C, [X11]([url](https://www.xquartz.org/)), and a small coding libary courtesy of my college CS professor, Jeffrey Ely.
 
 To run, you'll need to have X11 installed on your device. 
 1. clone the repository
